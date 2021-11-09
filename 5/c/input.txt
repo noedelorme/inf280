@@ -1,0 +1,9 @@
+3 4
+PP
+RR
+PS
+SS
+20 3
+PRSPS
+SSSSS
+PPSPP
