@@ -1,4 +1,4 @@
-# INF280 Preparation for the programming contest
+# INF280: Intoduction to programming contests
 INF280 is a master level course at Télécom Paris that introduces students to programming contest. Each week, for seven weeks in a row, there are three problems to solve around the same theoretical concept.
 
 #### Week 1: C++ Standard library containers ([contest link](https://vjudge.net/contest/434294))
